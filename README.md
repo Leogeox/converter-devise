@@ -1,4 +1,4 @@
-# converter_devise
+# Converter Devise
 Julien Clavier 
 Lucas Audoubert
 Léo Vigin
